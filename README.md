@@ -8,8 +8,8 @@
 1. Clone the repository
 2. Enter your values in the `.env` file
 3. Use Cloudflare Tunnel or Ngrok to expose the server to the internet
-4. Go to your discord application in the dev portal and add the Cloudflare Tunnel or Ngrok URL to the ``URL Mappings`` and hit save
-5. Activate ``Developer Mode`` in Discord (Settings ``->`` Advanced ``->`` Developer Mode)
+4. Go to your discord application in the dev portal and add the Cloudflare Tunnel or Ngrok URL to the ``URL-Mappings`` and hit save
+5. Activate ``Developer Mode`` in Discord (``Settings`` -> ``Advanced`` -> ``Developer Mode``)
 6. Run the project using `pnpm start`
 7. Hop in a voice channel on your server and click the Activity button (🚀) and you should see your activity at the start of the list.
 
