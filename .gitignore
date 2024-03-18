@@ -1,0 +1,9 @@
+# ignore atifacts
+node_modules
+.env
+
+# client artifacts
+client/node_modules
+client/build
+client/.env
+client/.next

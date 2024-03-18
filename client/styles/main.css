@@ -1,0 +1,19 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 40px 0;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #333;
+}
