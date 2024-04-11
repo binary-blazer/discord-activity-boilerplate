@@ -1,5 +1,7 @@
 ![discord-activity-boilerplate](https://raw.githubusercontent.com/binary-blazer/repo-svgs/main/out/discord-activity-boilerplate/image.svg)
 
+![discord-activity-boilerplate](https://raw.githubusercontent.com/binary-blazer/repo-svgs/main/out/discord-activity-boilerplate/image.svg)
+
 # discord-activity-boilerplate
 > A simple boilerplate for a Discord activity using the discord activity sdk.
 
