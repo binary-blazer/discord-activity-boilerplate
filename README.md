@@ -18,6 +18,8 @@
 
 
 
+
+
 # discord-activity-boilerplate
 > A simple boilerplate for a Discord activity using the discord activity sdk.
 
